@@ -16,3 +16,5 @@ git status
  git commit -m "commit message"
  git push
  git status
+   create a new branch 
+git checkout -b "branchname"
