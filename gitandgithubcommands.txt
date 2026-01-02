@@ -1,0 +1,18 @@
+Git >> Version Control
+git config --global user.name "PatanOveskhan-alt"
+
+git config --global user.email "Patanaveskhan@gmail.com"
+
+git config --global color.ui auto
+>>git init
+>>git remote add origin https://github.com/PatanOveskhan-alt/assignment-1.git
+
+
+
+
+git pull origin main
+git status
+ git add .
+ git commit -m "commit message"
+ git push
+ git status
